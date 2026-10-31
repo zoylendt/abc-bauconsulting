@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img">
+<title>Platzhalter: IMG-009</title>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b6c8cf"/><stop offset="1" stop-color="#e4e9e9"/></linearGradient></defs>
+<rect width="1600" height="500" fill="url(#sky)"/>
+<path d="M0 410.0 Q400.0 285.0 800.0 390.0 T1600 345.0 V500 H0Z" fill="#80958e" opacity=".42"/>
+<path d="M0 310.0 H1600 M288.0 310.0V500 M832.0 310.0V500 M1360.0 310.0V500" fill="none" stroke="#6b8190" stroke-width="22" opacity=".25"/>
+<rect x="192.0" y="189.0" width="1216.0" height="122" rx="4" fill="white" opacity=".8"/>
+<text x="800.0" y="238.0" text-anchor="middle" fill="#345267" font-family="Arial,sans-serif" font-size="30">IMG-009 · Platzhalter</text>
+<text x="800.0" y="278.0" text-anchor="middle" fill="#526773" font-family="Arial,sans-serif" font-size="19">Kopfbild_Leistungsspektrum.jpg</text>
+</svg>

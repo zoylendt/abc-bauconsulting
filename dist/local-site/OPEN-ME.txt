@@ -1,0 +1,3 @@
+Extract the complete archive, then open index.html in your browser.
+No server, Node.js or Python is required. Keep all folders together.
+Search uses a local text index; external links still require Internet access.

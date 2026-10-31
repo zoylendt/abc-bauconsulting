@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://abc-bauconsulting.de/sitemap.xml

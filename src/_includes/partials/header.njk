@@ -1,0 +1,57 @@
+{% from "macros.njk" import picture, searchForm %}
+<a href="#content" class="skip-link">Zum Inhalt springen</a>
+<div class="utility-bar">
+  <div class="utility-contact">
+    <a href="{{ site.mapUrl }}" target="_blank" rel="noopener noreferrer">{{ site.address }}</a>
+    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <span>Tel: {{ site.telephone }}</span>
+  </div>
+  <nav aria-label="Servicenavigation">
+    <a href="/kontakt/">Kontakt</a>
+    <a href="/impressum/">Impressum</a>
+    <a href="/datenschutz/">Datenschutz</a>
+  </nav>
+</div>
+<header class="navbar" id="site-header">
+  <div class="container navbar-container">
+    <div class="navbar-brand-row">
+      <a class="brand" href="/" aria-label="{{ site.name }} – Startseite">
+        {{ picture("IMG-004", "brand-logo", "eager") }}
+      </a>
+      <button class="menu-toggle" type="button" aria-controls="primary-navigation" aria-expanded="false">
+        <span class="sr-only">Menü öffnen</span>
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <nav id="primary-navigation" class="primary-navigation" aria-label="Hauptnavigation">
+      <ul class="menu">
+        {% for item in navigation %}
+          <li class="menu-item{% if item.children %} has-submenu{% endif %}{% if item | activeMenu(page.url, navigationParent) %} active{% endif %}">
+            <div class="menu-link-row">
+              <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+              {% if item.children %}
+                <button class="submenu-toggle" type="button" aria-expanded="false" aria-controls="submenu-{{ loop.index }}"
+                        aria-label="Untermenü {{ item.title }} öffnen"><span class="caret"></span></button>
+              {% endif %}
+            </div>
+            {% if item.children %}
+              <ul class="submenu" id="submenu-{{ loop.index }}">
+                {% for child in item.children %}
+                  <li><a href="{{ child.url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+        <li class="menu-search">
+          <button type="button" class="search-toggle" aria-expanded="false" aria-controls="header-search" aria-label="Suche öffnen">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 6 6"/></svg>
+          </button>
+          <div class="header-search" id="header-search">
+            {{ searchForm("header-search-input") }}
+          </div>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Startseite",
+    "url": "/"
+  },
+  {
+    "title": "Leistungsspektrum",
+    "url": "/leistungsspektrum-2/",
+    "children": [
+      {
+        "title": "Warum Baubetriebsberatung?",
+        "url": "/warum-baubetriebsberatung/"
+      },
+      {
+        "title": "Leistungen für Auftragnehmer",
+        "url": "/leistungen-fuer-auftragnehmer/"
+      },
+      {
+        "title": "Leistungen für Auftraggeber",
+        "url": "/leistungen-fuer-auftraggeber/"
+      },
+      {
+        "title": "Gutachten",
+        "url": "/gutachten/"
+      },
+      {
+        "title": "Außergerichtliche Streitbeilegung",
+        "url": "/aussergerichtliche-streitbeilegung/"
+      }
+    ]
+  },
+  {
+    "title": "Über Uns",
+    "url": "/ueber-uns/",
+    "children": [
+      {
+        "title": "Ihr Berater",
+        "url": "/ihr-berater/"
+      },
+      {
+        "title": "Unser Standort",
+        "url": "/unser-standort/"
+      }
+    ]
+  },
+  {
+    "title": "Referenzen",
+    "url": "/referenzen/",
+    "children": [
+      {
+        "title": "Ingenieurbau",
+        "url": "/ingenieurbau/"
+      },
+      {
+        "title": "Spezialtiefbau",
+        "url": "/spezialtiefbau/"
+      },
+      {
+        "title": "Hochbau & Schlüsselfertigbau",
+        "url": "/hochbau-schluesselfertigbau/"
+      },
+      {
+        "title": "Tiefbau & Straßenbau",
+        "url": "/tiefbau-strassenbau/"
+      },
+      {
+        "title": "Gutachten",
+        "url": "/gutachten-2/"
+      },
+      {
+        "title": "Beweisfähige Baustellendokumentationen",
+        "url": "/beweisfaehige-baustellendokumentationen/"
+      },
+      {
+        "title": "Adjudikation",
+        "url": "/adjudikation/"
+      }
+    ]
+  },
+  {
+    "title": "Seminare & Schulungen",
+    "url": "/seminare-schulungen/",
+    "children": [
+      {
+        "title": "Aktuelles",
+        "url": "/aktuelles/"
+      },
+      {
+        "title": "Allgemeine Übersicht",
+        "url": "/allgemeine-uebersicht/"
+      }
+    ]
+  },
+  {
+    "title": "Kontakt",
+    "url": "/kontakt/"
+  },
+  {
+    "title": "Impressum",
+    "url": "/impressum/",
+    "children": [
+      {
+        "title": "Datenschutz",
+        "url": "/datenschutz/"
+      },
+      {
+        "title": "Disclaimer",
+        "url": "/disclaimer/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "abc-bauconsulting-static",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Markdown-first Eleventy rebuild of ABC Abel Bau-Consulting",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "eleventy && pagefind --site _site",
+    "build:local": "npm run build && python3 -m scripts.prepare_site local",
+    "dev": "eleventy --serve",
+    "check": "node --test && python3 -m unittest discover -s tests -p '*_test.py'",
+    "test": "npm run build && npm run check"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "3.1.7",
+    "markdown-it": "15.0.3",
+    "pagefind": "1.5.2"
+  }
+}

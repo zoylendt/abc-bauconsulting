@@ -1,0 +1,32 @@
+name: deploy_local
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: npm ci
+      - run: npm test
+      - run: python3 -m scripts.prepare_site local
+      - uses: actions/upload-artifact@v7
+        with:
+          name: abc-site-local
+          path: dist/local-site/
+          if-no-files-found: error
+          retention-days: 14

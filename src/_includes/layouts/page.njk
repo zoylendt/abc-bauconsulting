@@ -1,0 +1,53 @@
+{% from "macros.njk" import picture %}
+<!doctype html>
+<html lang="{{ lang | default('de') }}" id="top">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if documentTitle %}{{ documentTitle }}{% elif page.url == "/" %}{{ site.name }} – {{ site.tagline }}{% else %}{{ title }} – {{ site.name }}{% endif %}</title>
+  <meta name="description" content="{{ description | default(site.name ~ ': ' ~ title ~ '. Baubetriebliche Beratung, Gutachten und Kontakt in Wettenberg.') }}">
+  <meta name="color-scheme" content="light">
+  {% if noindex or not site.indexable %}<meta name="robots" content="noindex, nofollow">{% endif %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {% set icon = "IMG-003" | image %}
+  <link rel="icon" type="image/svg+xml" href="{{ icon.src }}">
+  <link rel="stylesheet" href="/assets/css/site.css">
+  {% if searchPage %}
+    <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+    <script defer src="/pagefind/pagefind-ui.js"></script>
+    <script defer src="/assets/js/search.js"></script>
+  {% endif %}
+  <script>document.documentElement.classList.add("js");</script>
+  <script defer src="/assets/js/site.js"></script>
+</head>
+<body{% if page.url == "/" %} class="home"{% endif %}>
+  {% include "partials/header.njk" %}
+  <section class="page-hero" aria-labelledby="page-title">
+    {{ picture(hero | default("IMG-067"), "hero-image", "eager", true) }}
+    <div class="hero-overlay"></div>
+    <div class="container hero-container">
+      <h1 id="page-title" data-pagefind-meta="title">{{ heroTitle | default(title) }}</h1>
+    </div>
+  </section>
+  <main class="main-raised" id="content" tabindex="-1"{% if searchable %} data-pagefind-body{% endif %}>
+    <div class="container">
+      <div class="article-shell">
+        <div class="content-row">
+          {% if sidebar %}{% include "partials/sidebar.njk" %}{% endif %}
+          <article class="page-content{% if not sidebar %} page-content-wide{% endif %}">
+            {{ content | safe }}
+            {% if referenceNavigation %}
+              <nav class="reference-navigation" aria-label="Referenznavigation">
+                {% if referenceNavigation.previous %}<a href="{{ referenceNavigation.previous }}">Vorherige</a>{% endif %}
+                {% if referenceNavigation.all %}<a href="{{ referenceNavigation.all }}">Alle Referenzen</a>{% endif %}
+                {% if referenceNavigation.next %}<a href="{{ referenceNavigation.next }}">Nächste</a>{% endif %}
+              </nav>
+            {% endif %}
+          </article>
+        </div>
+      </div>
+    </div>
+  </main>
+  {% include "partials/footer.njk" %}
+</body>
+</html>

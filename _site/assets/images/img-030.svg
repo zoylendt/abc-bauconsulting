@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="768" viewBox="0 0 1000 750" role="img">
+<title>BAB A 71, Saale – Talbrücke bei Bad Neustadt/S. – Bild 3</title>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b6c8cf"/><stop offset="1" stop-color="#e4e9e9"/></linearGradient></defs>
+<rect width="1000" height="750" fill="url(#sky)"/>
+<path d="M0 615.0 Q250.0 427.49999999999994 500.0 585.0 T1000 517.5 V750 H0Z" fill="#80958e" opacity=".42"/>
+<path d="M0 465.0 H1000 M180.0 465.0V750 M520.0 465.0V750 M850.0 465.0V750" fill="none" stroke="#6b8190" stroke-width="22" opacity=".25"/>
+<rect x="120.0" y="314.0" width="760.0" height="122" rx="4" fill="white" opacity=".8"/>
+<text x="500.0" y="363.0" text-anchor="middle" fill="#345267" font-family="Arial,sans-serif" font-size="30">IMG-030 · Platzhalter</text>
+<text x="500.0" y="403.0" text-anchor="middle" fill="#526773" font-family="Arial,sans-serif" font-size="19">Ref_Ing_Saale_2-1024x768.jpg</text>
+</svg>

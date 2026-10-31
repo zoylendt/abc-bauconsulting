@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150" role="img">
+<title>Platzhalter für das DGA-Bau-Logo</title>
+<rect width="150" height="150" rx="6" fill="#fff"/>
+<path d="M12 14h126M12 136h126" stroke="#1b467b" stroke-width="6"/>
+<text x="75" y="76" text-anchor="middle" fill="#1b467b" font-family="Arial,sans-serif" font-size="48" font-weight="700">DGA</text>
+<text x="75" y="119" text-anchor="middle" fill="#c73540" font-family="Arial,sans-serif" font-size="34">BAU</text>
+</svg>

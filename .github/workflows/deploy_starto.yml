@@ -1,0 +1,68 @@
+name: deploy_starto
+
+on:
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: Deploy or delete the managed STRATO website
+        type: choice
+        options: [deploy, delete]
+        default: deploy
+        required: true
+      delete_confirmation:
+        description: "For delete, type DELETE owner/repository (replace with this repository)"
+        type: string
+        required: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: strato-website
+  cancel-in-progress: false
+
+jobs:
+  strato:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment: strato
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements-deploy.txt
+      - name: Validate deletion confirmation
+        if: inputs.operation == 'delete'
+        env:
+          DELETE_CONFIRMATION: ${{ inputs.delete_confirmation }}
+        run: python3 -c 'from scripts.github_pages import confirmation, repository; confirmation(repository())'
+      - uses: actions/setup-node@v7
+        if: inputs.operation == 'deploy'
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - if: inputs.operation == 'deploy'
+        run: npm ci && npm test
+      - name: Prepare STRATO website URLs
+        if: inputs.operation == 'deploy'
+        env:
+          SITE_URL: ${{ secrets.STRATO_SITE_URL }}
+        run: python3 -m scripts.prepare_site web
+      - run: python3 -m pip install -r scripts/requirements-deploy.txt
+      - name: Transfer or delete managed files
+        env:
+          DEPLOY_OPERATION: ${{ inputs.operation }}
+          DELETE_CONFIRMATION: ${{ inputs.delete_confirmation }}
+          STRATO_PROTOCOL: ${{ secrets.STRATO_PROTOCOL }}
+          STRATO_HOST: ${{ secrets.STRATO_HOST }}
+          STRATO_PORT: ${{ secrets.STRATO_PORT }}
+          STRATO_USERNAME: ${{ secrets.STRATO_USERNAME }}
+          STRATO_PASSWORD: ${{ secrets.STRATO_PASSWORD }}
+          STRATO_KNOWN_HOSTS: ${{ secrets.STRATO_KNOWN_HOSTS }}
+          STRATO_REMOTE_DIR: ${{ secrets.STRATO_REMOTE_DIR }}
+          STRATO_SITE_URL: ${{ secrets.STRATO_SITE_URL }}
+        run: python3 -m scripts.deploy_strato "$DEPLOY_OPERATION"

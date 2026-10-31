@@ -1,0 +1,23 @@
+{% from "macros.njk" import picture %}
+<aside class="sidebar" aria-label="Kontakt und Qualifikationen" data-pagefind-ignore>
+  <div class="contact-widget">
+    <h2>{{ site.sidebarName }}</h2>
+    <ul>
+      <li><a href="{{ site.mapUrl }}" target="_blank" rel="noopener noreferrer">{{ site.address }}</a></li>
+      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li>Tel: {{ site.telephone }}</li>
+      <li>Fax: {{ site.fax }}</li>
+    </ul>
+  </div>
+  <div class="credential-gallery">
+    <figure>
+      <a href="{{ site.ihkUrl }}" target="_blank" rel="noopener noreferrer">{{ picture("IMG-012") }}</a>
+      <figcaption><a href="{{ site.ihkUrl }}" target="_blank" rel="noopener noreferrer">IHK.de</a></figcaption>
+    </figure>
+    <figure>
+      <a href="{{ site.dgaUrl }}" target="_blank" rel="noopener noreferrer">{{ picture("IMG-061") }}</a>
+      <figcaption><a href="{{ site.dgaUrl }}" target="_blank" rel="noopener noreferrer">DGA-Bau.de</a></figcaption>
+    </figure>
+  </div>
+  <div class="slogan-widget">{{ picture("IMG-002") }}</div>
+</aside>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="683" viewBox="0 0 1000 667" role="img">
+<title>Ihr Berater – Bild 1</title>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b6c8cf"/><stop offset="1" stop-color="#e4e9e9"/></linearGradient></defs>
+<rect width="1000" height="667" fill="url(#sky)"/>
+<path d="M0 546.9399999999999 Q250.0 380.18999999999994 500.0 520.26 T1000 460.22999999999996 V667 H0Z" fill="#80958e" opacity=".42"/>
+<path d="M0 413.54 H1000 M180.0 413.54V667 M520.0 413.54V667 M850.0 413.54V667" fill="none" stroke="#6b8190" stroke-width="22" opacity=".25"/>
+<rect x="120.0" y="272.5" width="760.0" height="122" rx="4" fill="white" opacity=".8"/>
+<text x="500.0" y="321.5" text-anchor="middle" fill="#345267" font-family="Arial,sans-serif" font-size="30">IMG-059 · Platzhalter</text>
+<text x="500.0" y="361.5" text-anchor="middle" fill="#526773" font-family="Arial,sans-serif" font-size="19">Volker_1-1024x683.jpg</text>
+</svg>

@@ -1,0 +1,84 @@
+name: deploy_gh_custom
+
+on:
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: Deploy at a custom domain or disable this repository's Pages website
+        type: choice
+        options: [deploy, delete]
+        default: deploy
+        required: true
+      custom_domain:
+        description: "Hostname only; empty uses PAGES_CUSTOM_DOMAIN variable; required for deployment"
+        type: string
+        required: false
+      delete_confirmation:
+        description: "For delete, type DELETE owner/repository (replace with this repository)"
+        type: string
+        required: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Validate deletion confirmation
+        if: inputs.operation == 'delete'
+        env:
+          DELETE_CONFIRMATION: ${{ inputs.delete_confirmation }}
+        run: python3 -c 'from scripts.github_pages import confirmation, repository; confirmation(repository())'
+      - uses: actions/setup-node@v7
+        if: inputs.operation == 'deploy'
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - if: inputs.operation == 'deploy'
+        run: npm ci && npm test
+      - name: Configure Pages with a required custom domain
+        id: pages
+        if: inputs.operation == 'deploy'
+        env:
+          PAGES_ADMIN_TOKEN: ${{ secrets.PAGES_ADMIN_TOKEN }}
+          CUSTOM_DOMAIN: ${{ inputs.custom_domain || vars.PAGES_CUSTOM_DOMAIN }}
+        run: python3 -m scripts.github_pages configure-custom
+      - name: Prepare deployment URLs
+        if: inputs.operation == 'deploy'
+        env:
+          SITE_URL: ${{ steps.pages.outputs.site_url }}
+        run: python3 -m scripts.prepare_site web
+      - uses: actions/upload-pages-artifact@v5
+        if: inputs.operation == 'deploy'
+        with:
+          path: dist/web-site
+          include-hidden-files: true
+      - name: Deploy GitHub Pages
+        id: deployment
+        if: inputs.operation == 'deploy'
+        uses: actions/deploy-pages@v5
+      - name: Delete GitHub Pages website
+        if: inputs.operation == 'delete'
+        env:
+          PAGES_ADMIN_TOKEN: ${{ secrets.PAGES_ADMIN_TOKEN }}
+          DELETE_CONFIRMATION: ${{ inputs.delete_confirmation }}
+        run: python3 -m scripts.github_pages delete

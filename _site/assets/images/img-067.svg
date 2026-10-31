@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img">
+<title>Platzhalter: IMG-067</title>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b6c8cf"/><stop offset="1" stop-color="#e4e9e9"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<path d="M0 738.0 Q400.0 513.0 800.0 702.0 T1600 621.0 V900 H0Z" fill="#80958e" opacity=".42"/>
+<path d="M0 558.0 H1600 M288.0 558.0V900 M832.0 558.0V900 M1360.0 558.0V900" fill="none" stroke="#6b8190" stroke-width="22" opacity=".25"/>
+<rect x="192.0" y="389.0" width="1216.0" height="122" rx="4" fill="white" opacity=".8"/>
+<text x="800.0" y="438.0" text-anchor="middle" fill="#345267" font-family="Arial,sans-serif" font-size="30">IMG-067 · Platzhalter</text>
+<text x="800.0" y="478.0" text-anchor="middle" fill="#526773" font-family="Arial,sans-serif" font-size="19">cropped-54C2554_logo_2-scaled-1.jpg</text>
+</svg>

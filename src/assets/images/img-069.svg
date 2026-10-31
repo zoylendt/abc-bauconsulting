@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="250" viewBox="0 0 1000 244" role="img">
+<title>Flughafen Frankfurt, Terminal 3 – Bild 3</title>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b6c8cf"/><stop offset="1" stop-color="#e4e9e9"/></linearGradient></defs>
+<rect width="1000" height="244" fill="url(#sky)"/>
+<path d="M0 200.07999999999998 Q250.0 139.07999999999998 500.0 190.32 T1000 168.35999999999999 V244 H0Z" fill="#80958e" opacity=".42"/>
+<path d="M0 151.28 H1000 M180.0 151.28V244 M520.0 151.28V244 M850.0 151.28V244" fill="none" stroke="#6b8190" stroke-width="22" opacity=".25"/>
+<rect x="120.0" y="61.0" width="760.0" height="122" rx="4" fill="white" opacity=".8"/>
+<text x="500.0" y="110.0" text-anchor="middle" fill="#345267" font-family="Arial,sans-serif" font-size="30">IMG-069 · Platzhalter</text>
+<text x="500.0" y="150.0" text-anchor="middle" fill="#526773" font-family="Arial,sans-serif" font-size="19">20200430_133907-1024x250.jpg</text>
+</svg>

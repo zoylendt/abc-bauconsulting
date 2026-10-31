@@ -1,0 +1,1184 @@
+{
+  "IMG-001": {
+    "src": "/assets/images/img-001.svg",
+    "alt": "ABC Abel Bau-Consulting – Platzhalterlogo",
+    "width": 190,
+    "height": 100,
+    "original": "/2020/08/Abel_Logo.png",
+    "description": "Original ABC blue/gray building logo with the company name; used in the published reference template.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-002": {
+    "src": "/assets/images/img-002.svg",
+    "alt": "Bauen mit Gewinn! – Platzhalter",
+    "width": 300,
+    "height": 47,
+    "original": "/2020/08/bauen_mit_gewinn-300x47.png",
+    "description": "Red handwritten lettering “Bauen mit Gewinn!” on a gray rectangular background; shared sidebar slogan.",
+    "variants": [
+      "/2020/08/bauen_mit_gewinn.png"
+    ],
+    "placeholder": true
+  },
+  "IMG-003": {
+    "src": "/assets/images/img-003.svg",
+    "alt": "ABC – Platzhalter für das Website-Icon",
+    "width": 192,
+    "height": 192,
+    "original": "/2020/08/cropped-Abel_Logo-1-180x180.png",
+    "description": "Browser/site-icon crop of the ABC branding; favicon, touch icon and Microsoft tile sizes.",
+    "variants": [
+      "/2020/08/cropped-Abel_Logo-1-192x192.png",
+      "/2020/08/cropped-Abel_Logo-1-270x270.png",
+      "/2020/08/cropped-Abel_Logo-1-32x32.png"
+    ],
+    "placeholder": true
+  },
+  "IMG-004": {
+    "src": "/assets/images/img-004.svg",
+    "alt": "ABC Abel Bau-Consulting",
+    "width": 190,
+    "height": 100,
+    "original": "/2020/08/cropped-Abel_Logo.png",
+    "description": "Cropped blue/gray geometric building logo, ABC lettering and Abel Bau-Consulting wordmark; shared header home link.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-005": {
+    "src": "/assets/images/img-005.svg",
+    "alt": "Platzhalter: IMG-005",
+    "width": 1600,
+    "height": 500,
+    "original": "/2020/09/Kopfbild_Start.jpg",
+    "description": "Wide collage of a pedestrian bridge, Rennsteig road-tunnel portals and a tall highway bridge; homepage hero.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-006": {
+    "src": "/assets/images/img-006.svg",
+    "alt": "Startseite",
+    "width": 440,
+    "height": 381,
+    "original": "/2020/09/Volker.jpg",
+    "description": "Portrait crop of Volker Abel wearing a white hard hat and red checked shirt at a bridge construction site.",
+    "variants": [
+      "/2020/09/Volker-300x260.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-007": {
+    "src": "/assets/images/img-007.svg",
+    "alt": "Platzhalter: IMG-007",
+    "width": 1600,
+    "height": 500,
+    "original": "/2020/10/Kopfbild_Impressum.jpg",
+    "description": "Wide photograph of the twin Rennsteig tunnel portals, roadway, wooded hillside and traffic; legal-page hero.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-008": {
+    "src": "/assets/images/img-008.svg",
+    "alt": "Platzhalter: IMG-008",
+    "width": 1600,
+    "height": 500,
+    "original": "/2020/10/Kopfbild_Kontakt.jpg",
+    "description": "Wide village panorama below a hilltop castle/tower, with fields and clouds; contact-page hero.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-009": {
+    "src": "/assets/images/img-009.svg",
+    "alt": "Platzhalter: IMG-009",
+    "width": 1600,
+    "height": 500,
+    "original": "/2020/10/Kopfbild_Leistungsspektrum.jpg",
+    "description": "Construction schedule/Gantt table blended with the underside of a tall concrete bridge; services hero.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-010": {
+    "src": "/assets/images/img-010.svg",
+    "alt": "Platzhalter: IMG-010",
+    "width": 1600,
+    "height": 500,
+    "original": "/2020/10/Kopfbild_Referenzen.jpg",
+    "description": "Curved pedestrian bridge above road/rail infrastructure with houses and trees behind; reference-index hero.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-011": {
+    "src": "/assets/images/img-011.svg",
+    "alt": "Platzhalter: IMG-011",
+    "width": 1600,
+    "height": 500,
+    "original": "/2020/10/Kopfbild_Seminare.jpg",
+    "description": "Desk still life with drawings/maps, calculator, pen, yellow book and ABC-branded hard hat; seminar-page hero.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-012": {
+    "src": "/assets/images/img-012.svg",
+    "alt": "Platzhalter für das Sachverständigen-Logo",
+    "width": 74,
+    "height": 73,
+    "original": "/2020/10/Logo_Sachverstand.png",
+    "description": "Blue/gray abstract expert-witness credential mark; IHK.de sidebar badge.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-013": {
+    "src": "/assets/images/img-013.svg",
+    "alt": "Gegengutachten zu gerichtl. Sachverständigengutachten – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Gutachten_Doellbach_1-1024x768.jpg",
+    "description": "Portrait view along the tall Döllbach bridge piers and underside.",
+    "variants": [
+      "/2020/10/Ref_Gutachten_Doellbach_1-1536x1152.jpg",
+      "/2020/10/Ref_Gutachten_Doellbach_1-2048x1536.jpg",
+      "/2020/10/Ref_Gutachten_Doellbach_1-300x225.jpg",
+      "/2020/10/Ref_Gutachten_Doellbach_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-014": {
+    "src": "/assets/images/img-014.svg",
+    "alt": "Gegengutachten zu gerichtl. Sachverständigengutachten – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Gutachten_Doellbach_2-1024x768.jpg",
+    "description": "Bridge deck/roadway undergoing works, with exposed work areas and barriers.",
+    "variants": [
+      "/2020/10/Ref_Gutachten_Doellbach_2-1536x1152.jpg",
+      "/2020/10/Ref_Gutachten_Doellbach_2-2048x1536.jpg",
+      "/2020/10/Ref_Gutachten_Doellbach_2-300x225.jpg",
+      "/2020/10/Ref_Gutachten_Doellbach_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-015": {
+    "src": "/assets/images/img-015.svg",
+    "alt": "Institut für Hirnforschung (MPI), Frankfurt a. M.",
+    "width": 800,
+    "height": 533,
+    "original": "/2020/10/Ref_Gutachten_Hirnforschung_1.jpg",
+    "description": "Modern Max Planck institute building complex and paved forecourt.",
+    "variants": [
+      "/2020/10/Ref_Gutachten_Hirnforschung_1-300x200.jpg",
+      "/2020/10/Ref_Gutachten_Hirnforschung_1-360x240.jpg",
+      "/2020/10/Ref_Gutachten_Hirnforschung_1-768x512.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-016": {
+    "src": "/assets/images/img-016.svg",
+    "alt": "Mängelbeseitigungskosten bei MF – Wohnhaus (Privatgutachten)",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Gutachten_Radny_1-1024x768.jpg",
+    "description": "White multi-family house with balconies and parked cars; defect-remediation-cost case.",
+    "variants": [
+      "/2020/10/Ref_Gutachten_Radny_1-1536x1152.jpg",
+      "/2020/10/Ref_Gutachten_Radny_1-2048x1536.jpg",
+      "/2020/10/Ref_Gutachten_Radny_1-300x225.jpg",
+      "/2020/10/Ref_Gutachten_Radny_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-017": {
+    "src": "/assets/images/img-017.svg",
+    "alt": "Umbau Dachgeschoss in hochwertige Wohnung, inkl. Aufzuganlage – Bild 2",
+    "width": 768,
+    "height": 1024,
+    "original": "/2020/10/Ref_Hoch_Dachgeschoss_1-768x1024.jpg",
+    "description": "Portrait street view of a scaffolded building during attic conversion.",
+    "variants": [
+      "/2020/10/Ref_Hoch_Dachgeschoss_1-1152x1536.jpg",
+      "/2020/10/Ref_Hoch_Dachgeschoss_1-1536x2048.jpg",
+      "/2020/10/Ref_Hoch_Dachgeschoss_1-225x300.jpg",
+      "/2020/10/Ref_Hoch_Dachgeschoss_1-scaled.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-018": {
+    "src": "/assets/images/img-018.svg",
+    "alt": "Umbau Dachgeschoss in hochwertige Wohnung, inkl. Aufzuganlage – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Hoch_Dachgeschoss_2-1024x768.jpg",
+    "description": "Finished bright attic/maisonette interior with exposed white structure, roof windows and stair opening.",
+    "variants": [
+      "/2020/10/Ref_Hoch_Dachgeschoss_2-1536x1152.jpg",
+      "/2020/10/Ref_Hoch_Dachgeschoss_2-2048x1536.jpg",
+      "/2020/10/Ref_Hoch_Dachgeschoss_2-300x225.jpg",
+      "/2020/10/Ref_Hoch_Dachgeschoss_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-019": {
+    "src": "/assets/images/img-019.svg",
+    "alt": "Umbau Dachgeschoss in hochwertige Wohnung, inkl. Aufzuganlage – Bild 3",
+    "width": 768,
+    "height": 1024,
+    "original": "/2020/10/Ref_Hoch_Dachgeschoss_3-768x1024.jpg",
+    "description": "Portrait street view of the completed residential facade and attic conversion.",
+    "variants": [
+      "/2020/10/Ref_Hoch_Dachgeschoss_3-1152x1536.jpg",
+      "/2020/10/Ref_Hoch_Dachgeschoss_3-1536x2048.jpg",
+      "/2020/10/Ref_Hoch_Dachgeschoss_3-225x300.jpg",
+      "/2020/10/Ref_Hoch_Dachgeschoss_3-scaled.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-020": {
+    "src": "/assets/images/img-020.svg",
+    "alt": "Neubau Kleintier- u. Vogelklinik,Universität Gießen – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Hoch_Kleintier_1-1024x768.jpg",
+    "description": "Exterior of the modern light-clad university veterinary clinic building.",
+    "variants": [
+      "/2020/10/Ref_Hoch_Kleintier_1-1536x1152.jpg",
+      "/2020/10/Ref_Hoch_Kleintier_1-2048x1536.jpg",
+      "/2020/10/Ref_Hoch_Kleintier_1-300x225.jpg",
+      "/2020/10/Ref_Hoch_Kleintier_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-021": {
+    "src": "/assets/images/img-021.svg",
+    "alt": "Neubau Kleintier- u. Vogelklinik,Universität Gießen – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Hoch_Kleintier_2-1024x768.jpg",
+    "description": "Clinic construction/exterior seen across rail tracks.",
+    "variants": [
+      "/2020/10/Ref_Hoch_Kleintier_2-1536x1152.jpg",
+      "/2020/10/Ref_Hoch_Kleintier_2-2048x1536.jpg",
+      "/2020/10/Ref_Hoch_Kleintier_2-300x225.jpg",
+      "/2020/10/Ref_Hoch_Kleintier_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-022": {
+    "src": "/assets/images/img-022.svg",
+    "alt": "Westpfalz-Klinikum Kaiserslautern, Hs. 7 mit Hubschrauberlandeplattform – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Hoch_WPKlinik_1-1024x768.jpg",
+    "description": "Westpfalz hospital tower with the circular helicopter landing platform.",
+    "variants": [
+      "/2020/10/Ref_Hoch_WPKlinik_1-1536x1152.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_1-2048x1536.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_1-300x225.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-023": {
+    "src": "/assets/images/img-023.svg",
+    "alt": "Westpfalz-Klinikum Kaiserslautern, Hs. 7 mit Hubschrauberlandeplattform – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Hoch_WPKlinik_2-1024x768.jpg",
+    "description": "Hospital complex and helipad seen above a low foreground roof.",
+    "variants": [
+      "/2020/10/Ref_Hoch_WPKlinik_2-1536x1152.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_2-2048x1536.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_2-300x225.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-024": {
+    "src": "/assets/images/img-024.svg",
+    "alt": "Westpfalz-Klinikum Kaiserslautern, Hs. 7 mit Hubschrauberlandeplattform – Bild 4",
+    "width": 768,
+    "height": 1024,
+    "original": "/2020/10/Ref_Hoch_WPKlinik_3-768x1024.jpg",
+    "description": "Portrait night view of the illuminated hospital tower and helicopter platform; source includes rotated derivative.",
+    "variants": [
+      "/2020/10/Ref_Hoch_WPKlinik_3-1152x1536.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_3-225x300.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_3-rotated.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-025": {
+    "src": "/assets/images/img-025.svg",
+    "alt": "Westpfalzklinikum Kaiserslautern, Neubau der Bettenhäuser 3 & 4",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Hoch_WPKlinik_4-1024x768.jpg",
+    "description": "Scaffolded hospital building/tower under construction, with crane.",
+    "variants": [
+      "/2020/10/Ref_Hoch_WPKlinik_4-1536x1152.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_4-2048x1536.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_4-300x225.jpg",
+      "/2020/10/Ref_Hoch_WPKlinik_4-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-026": {
+    "src": "/assets/images/img-026.svg",
+    "alt": "BAB A 17, Lockwitz – Talbrücke bei Dresden – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Lockwitz_1-1024x768.jpg",
+    "description": "Distant panorama of the Lockwitz valley bridge above wooded slopes.",
+    "variants": [
+      "/2020/10/Ref_Ing_Lockwitz_1-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Lockwitz_1-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Lockwitz_1-300x225.jpg",
+      "/2020/10/Ref_Ing_Lockwitz_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-027": {
+    "src": "/assets/images/img-027.svg",
+    "alt": "BAB A 17, Lockwitz – Talbrücke bei Dresden – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Lockwitz_3-1024x768.jpg",
+    "description": "Close low-angle view of the Lockwitz bridge's concrete piers and arched supports against blue sky.",
+    "variants": [
+      "/2020/10/Ref_Ing_Lockwitz_3-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Lockwitz_3-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Lockwitz_3-300x225.jpg",
+      "/2020/10/Ref_Ing_Lockwitz_3-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-028": {
+    "src": "/assets/images/img-028.svg",
+    "alt": "BAB A 17, Lockwitz – Talbrücke bei Dresden – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Lockwitz_4-1024x768.jpg",
+    "description": "Side view of the Lockwitz bridge's arches and piers with snow on the ground.",
+    "variants": [
+      "/2020/10/Ref_Ing_Lockwitz_4-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Lockwitz_4-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Lockwitz_4-300x225.jpg",
+      "/2020/10/Ref_Ing_Lockwitz_4-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-029": {
+    "src": "/assets/images/img-029.svg",
+    "alt": "BAB A 71, Saale – Talbrücke bei Bad Neustadt/S. – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Saale_1-1024x768.jpg",
+    "description": "Long side view of the Saale valley bridge above a road and fields.",
+    "variants": [
+      "/2020/10/Ref_Ing_Saale_1-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Saale_1-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Saale_1-300x225.jpg",
+      "/2020/10/Ref_Ing_Saale_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-030": {
+    "src": "/assets/images/img-030.svg",
+    "alt": "BAB A 71, Saale – Talbrücke bei Bad Neustadt/S. – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Saale_2-1024x768.jpg",
+    "description": "Side view of the Saale bridge from the grassy embankment.",
+    "variants": [
+      "/2020/10/Ref_Ing_Saale_2-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Saale_2-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Saale_2-300x225.jpg",
+      "/2020/10/Ref_Ing_Saale_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-031": {
+    "src": "/assets/images/img-031.svg",
+    "alt": "BAB A 71, Saale – Talbrücke bei Bad Neustadt/S. – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Saale_3-1024x768.jpg",
+    "description": "View beneath the Saale bridge beside a local road with a parked car.",
+    "variants": [
+      "/2020/10/Ref_Ing_Saale_3-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Saale_3-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Saale_3-300x225.jpg",
+      "/2020/10/Ref_Ing_Saale_3-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-032": {
+    "src": "/assets/images/img-032.svg",
+    "alt": "BAB A 38, Steinbach – Talbrücke bei Heiligenstadt/Thür. – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Steinbach_1-1024x768.jpg",
+    "description": "Long side view of the Steinbach bridge spanning a rural valley and fields.",
+    "variants": [
+      "/2020/10/Ref_Ing_Steinbach_1-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Steinbach_1-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Steinbach_1-300x225.jpg",
+      "/2020/10/Ref_Ing_Steinbach_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-033": {
+    "src": "/assets/images/img-033.svg",
+    "alt": "BAB A 38, Steinbach – Talbrücke bei Heiligenstadt/Thür. – Bild 2",
+    "width": 768,
+    "height": 1024,
+    "original": "/2020/10/Ref_Ing_Steinbach_2-768x1024.jpg",
+    "description": "Portrait-format oblique view along the Steinbach bridge deck and piers.",
+    "variants": [
+      "/2020/10/Ref_Ing_Steinbach_2-1152x1536.jpg",
+      "/2020/10/Ref_Ing_Steinbach_2-1536x2048.jpg",
+      "/2020/10/Ref_Ing_Steinbach_2-225x300.jpg",
+      "/2020/10/Ref_Ing_Steinbach_2-scaled.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-034": {
+    "src": "/assets/images/img-034.svg",
+    "alt": "BAB A 38, Steinbach – Talbrücke bei Heiligenstadt/Thür. – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Steinbach_3-1024x768.jpg",
+    "description": "View from beneath the Steinbach bridge deck, showing piers and grassy valley floor.",
+    "variants": [
+      "/2020/10/Ref_Ing_Steinbach_3-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Steinbach_3-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Steinbach_3-300x225.jpg",
+      "/2020/10/Ref_Ing_Steinbach_3-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-035": {
+    "src": "/assets/images/img-035.svg",
+    "alt": "BAB A 4, Teufelstalbrücke (Nord) bei Hermsdorfer Kreuz/Thür.",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Teufelstal_1-1024x768.jpg",
+    "description": "Low view between the two Teufelstal bridge structures, emphasizing the curved supports.",
+    "variants": [
+      "/2020/10/Ref_Ing_Teufelstal_1-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Teufelstal_1-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Teufelstal_1-300x225.jpg",
+      "/2020/10/Ref_Ing_Teufelstal_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-036": {
+    "src": "/assets/images/img-036.svg",
+    "alt": "BAB A 71, Thalwasser-Talbrücke bei Münnerstadt/Ufr. – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Thalwasser_1-1024x768.jpg",
+    "description": "Oblique side view of the Thalwasser bridge and its piers above grassland.",
+    "variants": [
+      "/2020/10/Ref_Ing_Thalwasser_1-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Thalwasser_1-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Thalwasser_1-300x225.jpg",
+      "/2020/10/Ref_Ing_Thalwasser_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-037": {
+    "src": "/assets/images/img-037.svg",
+    "alt": "BAB A 71, Thalwasser-Talbrücke bei Münnerstadt/Ufr. – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Thalwasser_2-1024x768.jpg",
+    "description": "View along the underside of the Thalwasser bridge, piers and service track.",
+    "variants": [
+      "/2020/10/Ref_Ing_Thalwasser_2-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Thalwasser_2-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Thalwasser_2-300x225.jpg",
+      "/2020/10/Ref_Ing_Thalwasser_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-038": {
+    "src": "/assets/images/img-038.svg",
+    "alt": "BAB A 71, Thalwasser-Talbrücke bei Münnerstadt/Ufr. – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Thalwasser_3-1024x768.jpg",
+    "description": "Low-angle view of the Thalwasser bridge underside and branching pier heads.",
+    "variants": [
+      "/2020/10/Ref_Ing_Thalwasser_3-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Thalwasser_3-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Thalwasser_3-300x225.jpg",
+      "/2020/10/Ref_Ing_Thalwasser_3-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-039": {
+    "src": "/assets/images/img-039.svg",
+    "alt": "L 3012, Abbruch und Neubau von 2 Brücken bei Trebur/Hessen – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Trebur_1-1024x768.jpg",
+    "description": "Bridge works over a watercourse, with temporary sheet-pile walls and crossing supports.",
+    "variants": [
+      "/2020/10/Ref_Ing_Trebur_1-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Trebur_1-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Trebur_1-300x225.jpg",
+      "/2020/10/Ref_Ing_Trebur_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-040": {
+    "src": "/assets/images/img-040.svg",
+    "alt": "L 3012, Abbruch und Neubau von 2 Brücken bei Trebur/Hessen – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Trebur_2-1024x768.jpg",
+    "description": "Small bridge over a stream during construction, with works equipment and autumn trees.",
+    "variants": [
+      "/2020/10/Ref_Ing_Trebur_2-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Trebur_2-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Trebur_2-300x225.jpg",
+      "/2020/10/Ref_Ing_Trebur_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-041": {
+    "src": "/assets/images/img-041.svg",
+    "alt": "L 3012, Abbruch und Neubau von 2 Brücken bei Trebur/Hessen – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Ing_Trebur_3-1024x768.jpg",
+    "description": "Completed small road bridge/culvert over the watercourse with grassy banks.",
+    "variants": [
+      "/2020/10/Ref_Ing_Trebur_3-1536x1152.jpg",
+      "/2020/10/Ref_Ing_Trebur_3-2048x1536.jpg",
+      "/2020/10/Ref_Ing_Trebur_3-300x225.jpg",
+      "/2020/10/Ref_Ing_Trebur_3-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-042": {
+    "src": "/assets/images/img-042.svg",
+    "alt": "B 29, Ortsumgehung Schwäbisch Gmünd, Trogbauwerk – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Spezi_SGTrog_1-1024x768.jpg",
+    "description": "Overview of a large deep excavation enclosed by retaining/piled walls, with excavators.",
+    "variants": [
+      "/2020/10/Ref_Spezi_SGTrog_1-1536x1152.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_1-300x225.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_1-768x576.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_1.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-043": {
+    "src": "/assets/images/img-043.svg",
+    "alt": "B 29, Ortsumgehung Schwäbisch Gmünd, Trogbauwerk – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Spezi_SGTrog_3-1024x768.jpg",
+    "description": "Concrete trough/ramp under construction with cranes and site equipment.",
+    "variants": [
+      "/2020/10/Ref_Spezi_SGTrog_3-1536x1152.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_3-2048x1536.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_3-300x225.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_3-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-044": {
+    "src": "/assets/images/img-044.svg",
+    "alt": "B 29, Ortsumgehung Schwäbisch Gmünd, Trogbauwerk – Bild 4",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Spezi_SGTrog_4-1024x768.jpg",
+    "description": "Close view along tall concrete trough walls and active construction works.",
+    "variants": [
+      "/2020/10/Ref_Spezi_SGTrog_4-1536x1152.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_4-2048x1536.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_4-300x225.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_4-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-045": {
+    "src": "/assets/images/img-045.svg",
+    "alt": "B 29, Ortsumgehung Schwäbisch Gmünd, Trogbauwerk – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Spezi_SGTrog_5-1024x768.jpg",
+    "description": "Excavator at the bottom of the excavation beside exposed piled retaining walls.",
+    "variants": [
+      "/2020/10/Ref_Spezi_SGTrog_5-1536x1152.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_5-300x225.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_5-768x576.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_5.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-046": {
+    "src": "/assets/images/img-046.svg",
+    "alt": "B 29, Ortsumgehung Schwäbisch Gmünd, Trogbauwerk – Bild 5",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Spezi_SGTrog_6-1024x768.jpg",
+    "description": "Curved and straight concrete trough walls near completion.",
+    "variants": [
+      "/2020/10/Ref_Spezi_SGTrog_6-1536x1152.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_6-2048x1536.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_6-300x225.jpg",
+      "/2020/10/Ref_Spezi_SGTrog_6-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-047": {
+    "src": "/assets/images/img-047.svg",
+    "alt": "Tiefbauarbeiten für Erweiterung Universitätsgebäude – Bild 1",
+    "width": 768,
+    "height": 1024,
+    "original": "/2020/10/Ref_Tief_ErwUni_1-768x1024.jpg",
+    "description": "Portrait view of trench/road works and excavator beside a university building.",
+    "variants": [
+      "/2020/10/Ref_Tief_ErwUni_1-1152x1536.jpg",
+      "/2020/10/Ref_Tief_ErwUni_1-1536x2048.jpg",
+      "/2020/10/Ref_Tief_ErwUni_1-225x300.jpg",
+      "/2020/10/Ref_Tief_ErwUni_1-scaled.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-048": {
+    "src": "/assets/images/img-048.svg",
+    "alt": "Tiefbauarbeiten für Erweiterung Universitätsgebäude – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Tief_ErwUni_2-1024x768.jpg",
+    "description": "Excavated ground and earthmoving equipment next to the university extension.",
+    "variants": [
+      "/2020/10/Ref_Tief_ErwUni_2-1536x1152.jpg",
+      "/2020/10/Ref_Tief_ErwUni_2-2048x1536.jpg",
+      "/2020/10/Ref_Tief_ErwUni_2-300x225.jpg",
+      "/2020/10/Ref_Tief_ErwUni_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-049": {
+    "src": "/assets/images/img-049.svg",
+    "alt": "Tiefbauarbeiten für Erweiterung Universitätsgebäude – Bild 3",
+    "width": 1024,
+    "height": 576,
+    "original": "/2020/10/Ref_Tief_ErwUni_3-1024x576.jpg",
+    "description": "Excavator working on earth piles at the university site in misty conditions.",
+    "variants": [
+      "/2020/10/Ref_Tief_ErwUni_3-300x169.jpg",
+      "/2020/10/Ref_Tief_ErwUni_3-768x432.jpg",
+      "/2020/10/Ref_Tief_ErwUni_3.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-050": {
+    "src": "/assets/images/img-050.svg",
+    "alt": "Infrastrukturarbeiten für Kompost.- u. Vergärungsanlage – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Tief_Kompost_1-1024x768.jpg",
+    "description": "Asphalt paving machine working beside an open industrial shed.",
+    "variants": [
+      "/2020/10/Ref_Tief_Kompost_1-1536x1152.jpg",
+      "/2020/10/Ref_Tief_Kompost_1-2048x1536.jpg",
+      "/2020/10/Ref_Tief_Kompost_1-300x225.jpg",
+      "/2020/10/Ref_Tief_Kompost_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-051": {
+    "src": "/assets/images/img-051.svg",
+    "alt": "Infrastrukturarbeiten für Kompost.- u. Vergärungsanlage – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Tief_Kompost_2-1024x768.jpg",
+    "description": "Surfaced industrial yard between composting/processing buildings.",
+    "variants": [
+      "/2020/10/Ref_Tief_Kompost_2-1536x1152.jpg",
+      "/2020/10/Ref_Tief_Kompost_2-2048x1536.jpg",
+      "/2020/10/Ref_Tief_Kompost_2-300x225.jpg",
+      "/2020/10/Ref_Tief_Kompost_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-052": {
+    "src": "/assets/images/img-052.svg",
+    "alt": "Infrastrukturarbeiten für Kompost.- u. Vergärungsanlage – Bild 1",
+    "width": 1024,
+    "height": 576,
+    "original": "/2020/10/Ref_Tief_Kompost_3-1024x576.jpg",
+    "description": "Exterior panorama of the composting/biogas facility, with bare foreground earth.",
+    "variants": [
+      "/2020/10/Ref_Tief_Kompost_3-1536x864.jpg",
+      "/2020/10/Ref_Tief_Kompost_3-2048x1152.jpg",
+      "/2020/10/Ref_Tief_Kompost_3-300x169.jpg",
+      "/2020/10/Ref_Tief_Kompost_3-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-053": {
+    "src": "/assets/images/img-053.svg",
+    "alt": "Wasserversorgung US-Liegenschaften Sembach, Los 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Tief_Sembach1_1-1024x768.jpg",
+    "description": "Excavators and red-earth trenching works on a rural water-supply route.",
+    "variants": [
+      "/2020/10/Ref_Tief_Sembach1_1-1536x1152.jpg",
+      "/2020/10/Ref_Tief_Sembach1_1-2048x1536.jpg",
+      "/2020/10/Ref_Tief_Sembach1_1-300x225.jpg",
+      "/2020/10/Ref_Tief_Sembach1_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-054": {
+    "src": "/assets/images/img-054.svg",
+    "alt": "Wasserversorgung US-Liegenschaften Sembach, Los 2 – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Tief_Sembach2_1-1024x768.jpg",
+    "description": "Earthworks and trench route across a field, with excavating machinery.",
+    "variants": [
+      "/2020/10/Ref_Tief_Sembach2_1-1536x1152.jpg",
+      "/2020/10/Ref_Tief_Sembach2_1-2048x1536.jpg",
+      "/2020/10/Ref_Tief_Sembach2_1-300x225.jpg",
+      "/2020/10/Ref_Tief_Sembach2_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-055": {
+    "src": "/assets/images/img-055.svg",
+    "alt": "Wasserversorgung US-Liegenschaften Sembach, Los 2 – Bild 2",
+    "width": 768,
+    "height": 1024,
+    "original": "/2020/10/Ref_Tief_Sembach2_2-768x1024.jpg",
+    "description": "Portrait view of a narrow trench with blue water pipe and a worker.",
+    "variants": [
+      "/2020/10/Ref_Tief_Sembach2_2-1152x1536.jpg",
+      "/2020/10/Ref_Tief_Sembach2_2-1536x2048.jpg",
+      "/2020/10/Ref_Tief_Sembach2_2-225x300.jpg",
+      "/2020/10/Ref_Tief_Sembach2_2-scaled.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-056": {
+    "src": "/assets/images/img-056.svg",
+    "alt": "Trassenumlegung mit Straßenbau (innerstädtisch) – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Tief_Trassenumlegung_1-1024x768.jpg",
+    "description": "Elevated overview of extensive urban utility/road works around Skyline Plaza.",
+    "variants": [
+      "/2020/10/Ref_Tief_Trassenumlegung_1-1536x1152.jpg",
+      "/2020/10/Ref_Tief_Trassenumlegung_1-2048x1536.jpg",
+      "/2020/10/Ref_Tief_Trassenumlegung_1-300x225.jpg",
+      "/2020/10/Ref_Tief_Trassenumlegung_1-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-057": {
+    "src": "/assets/images/img-057.svg",
+    "alt": "Trassenumlegung mit Straßenbau (innerstädtisch) – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Tief_Trassenumlegung_2-1024x768.jpg",
+    "description": "Street-level Skyline Plaza junction with barriers and road signs.",
+    "variants": [
+      "/2020/10/Ref_Tief_Trassenumlegung_2-1536x1152.jpg",
+      "/2020/10/Ref_Tief_Trassenumlegung_2-2048x1536.jpg",
+      "/2020/10/Ref_Tief_Trassenumlegung_2-300x225.jpg",
+      "/2020/10/Ref_Tief_Trassenumlegung_2-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-058": {
+    "src": "/assets/images/img-058.svg",
+    "alt": "Trassenumlegung mit Straßenbau (innerstädtisch) – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2020/10/Ref_Tief_Trassenumlegung_3-1024x768.jpg",
+    "description": "Exposed utility pipes and cables in a street excavation with site machinery.",
+    "variants": [
+      "/2020/10/Ref_Tief_Trassenumlegung_3-1536x1152.jpg",
+      "/2020/10/Ref_Tief_Trassenumlegung_3-2048x1536.jpg",
+      "/2020/10/Ref_Tief_Trassenumlegung_3-300x225.jpg",
+      "/2020/10/Ref_Tief_Trassenumlegung_3-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-059": {
+    "src": "/assets/images/img-059.svg",
+    "alt": "Ihr Berater – Bild 1",
+    "width": 1024,
+    "height": 683,
+    "original": "/2020/10/Volker_1-1024x683.jpg",
+    "description": "Volker Abel seated at his office desk, with drawings, computer, books and window behind.",
+    "variants": [
+      "/2020/10/Volker_1-2048x1365.jpg",
+      "/2020/10/Volker_1-300x200.jpg",
+      "/2020/10/Volker_1-360x240.jpg",
+      "/2020/10/Volker_1-768x512.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-060": {
+    "src": "/assets/images/img-060.svg",
+    "alt": "Ihr Berater – Bild 2",
+    "width": 2560,
+    "height": 1707,
+    "original": "/2020/10/Volker_2-scaled.jpg",
+    "description": "Volker Abel in hard hat standing beside bridge construction, temporary support frames and concrete works.",
+    "variants": [
+      "/2020/10/Volker_2-2048x1365.jpg",
+      "/2020/10/Volker_2-300x200.jpg",
+      "/2020/10/Volker_2-768x512.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-061": {
+    "src": "/assets/images/img-061.svg",
+    "alt": "Platzhalter für das DGA-Bau-Logo",
+    "width": 150,
+    "height": 150,
+    "original": "/2021/05/DGA_BAU_Logo_neu-150x150.jpg",
+    "description": "DGA BAU logo with dark blue DGA and red BAU lettering on white; sidebar badge.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-062": {
+    "src": "/assets/images/img-062.svg",
+    "alt": "Instandsetzung Stützwand, Alter Botanischer Garten, Marburg/L. – Bild 1",
+    "width": 1024,
+    "height": 576,
+    "original": "/2021/08/20180426_102012-1024x576.jpg",
+    "description": "Old masonry retaining wall with metal railing beside the botanical garden.",
+    "variants": [
+      "/2021/08/20180426_102012-1536x864.jpg",
+      "/2021/08/20180426_102012-2048x1152.jpg",
+      "/2021/08/20180426_102012-300x169.jpg",
+      "/2021/08/20180426_102012-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-063": {
+    "src": "/assets/images/img-063.svg",
+    "alt": "2 Hochhäuser mit 60 Wohnanlagen, Frankfurt/M.",
+    "width": 1024,
+    "height": 576,
+    "original": "/2021/08/20180803_130745-1024x576.jpg",
+    "description": "Residential high-rise wrapped in scaffolding during facade/energy renovation.",
+    "variants": [
+      "/2021/08/20180803_130745-1536x864.jpg",
+      "/2021/08/20180803_130745-2048x1152.jpg",
+      "/2021/08/20180803_130745-300x169.jpg",
+      "/2021/08/20180803_130745-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-064": {
+    "src": "/assets/images/img-064.svg",
+    "alt": "Platzhalter: IMG-064",
+    "width": 1600,
+    "height": 500,
+    "original": "/2021/08/54C2555_logo2_cut-scaled.jpg",
+    "description": "Panoramic crop of Volker Abel at a bridge construction site; he appears toward the left of the scene; about-page hero.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-065": {
+    "src": "/assets/images/img-065.svg",
+    "alt": "Instandsetzung Stützwand, Alter Botanischer Garten, Marburg/L. – Bild 2",
+    "width": 1024,
+    "height": 640,
+    "original": "/2021/08/Screenshot-2021-08-24-153609-1024x640.png",
+    "description": "Colored technical section/detail drawing associated with the retaining-wall works.",
+    "variants": [
+      "/2021/08/Screenshot-2021-08-24-153609-300x188.png",
+      "/2021/08/Screenshot-2021-08-24-153609-768x480.png",
+      "/2021/08/Screenshot-2021-08-24-153609.png"
+    ],
+    "placeholder": true
+  },
+  "IMG-066": {
+    "src": "/assets/images/img-066.svg",
+    "alt": "Instandsetzung Stützwand, Alter Botanischer Garten, Marburg/L. – Bild 3",
+    "width": 980,
+    "height": 1024,
+    "original": "/2021/08/Unbenannt-980x1024.png",
+    "description": "Portrait site/location plan headed “Übersichtslageplan M = 1:1000”, showing the botanical-garden retaining wall.",
+    "variants": [
+      "/2021/08/Unbenannt-1470x1536.png",
+      "/2021/08/Unbenannt-1960x2048.png",
+      "/2021/08/Unbenannt-287x300.png",
+      "/2021/08/Unbenannt-768x803.png"
+    ],
+    "placeholder": true
+  },
+  "IMG-067": {
+    "src": "/assets/images/img-067.svg",
+    "alt": "Platzhalter: IMG-067",
+    "width": 1600,
+    "height": 900,
+    "original": "/2021/08/cropped-54C2554_logo_2-scaled-1.jpg",
+    "description": "Volker Abel in a white hard hat and checked shirt at bridge works, placed toward the right; reference/default hero.",
+    "variants": [],
+    "placeholder": true
+  },
+  "IMG-068": {
+    "src": "/assets/images/img-068.svg",
+    "alt": "Flughafen Frankfurt, Terminal 3 – Bild 4",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/06/20200430_125134-1024x576.jpg",
+    "description": "Concrete terminal structure under construction, showing columns, walls and cranes.",
+    "variants": [
+      "/2022/06/20200430_125134-1536x864.jpg",
+      "/2022/06/20200430_125134-2048x1152.jpg",
+      "/2022/06/20200430_125134-300x169.jpg",
+      "/2022/06/20200430_125134-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-069": {
+    "src": "/assets/images/img-069.svg",
+    "alt": "Flughafen Frankfurt, Terminal 3 – Bild 3",
+    "width": 1024,
+    "height": 250,
+    "original": "/2022/06/20200430_133907-1024x250.jpg",
+    "description": "Panoramic view across the Terminal 3 construction site and cranes.",
+    "variants": [
+      "/2022/06/20200430_133907-1536x375.jpg",
+      "/2022/06/20200430_133907-2048x499.jpg",
+      "/2022/06/20200430_133907-300x73.jpg",
+      "/2022/06/20200430_133907-768x187.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-070": {
+    "src": "/assets/images/img-070.svg",
+    "alt": "Flughafen Frankfurt, Terminal 3 – Bild 1",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/06/20200608_163259-1024x576.jpg",
+    "description": "Frankfurt Terminal 3 construction site with cranes, concrete works and mobile crane.",
+    "variants": [
+      "/2022/06/20200608_163259-1536x864.jpg",
+      "/2022/06/20200608_163259-2048x1152.jpg",
+      "/2022/06/20200608_163259-300x169.jpg",
+      "/2022/06/20200608_163259-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-071": {
+    "src": "/assets/images/img-071.svg",
+    "alt": "Flughafen Frankfurt, Terminal 3 – Bild 2",
+    "width": 1024,
+    "height": 415,
+    "original": "/2022/06/bd1f2ab3-1867-4262-bebf-c51f00105417.png",
+    "description": "Aerial terminal/airport overview with colored Flugsteig G construction-phase diagram and legend.",
+    "variants": [
+      "/2022/06/bd1f2ab3-1867-4262-bebf-c51f00105417-300x122.png",
+      "/2022/06/bd1f2ab3-1867-4262-bebf-c51f00105417-768x311.png"
+    ],
+    "placeholder": true
+  },
+  "IMG-072": {
+    "src": "/assets/images/img-072.svg",
+    "alt": "Univers. Marburg – Neubau Bibliothek (Außenanlage) – Bild 1",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/08/20160912_134023-1024x576.jpg",
+    "description": "Urban street and exterior works beside the new Marburg library; church towers in the distance.",
+    "variants": [
+      "/2022/08/20160912_134023-1536x864.jpg",
+      "/2022/08/20160912_134023-2048x1152.jpg",
+      "/2022/08/20160912_134023-300x169.jpg",
+      "/2022/08/20160912_134023-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-073": {
+    "src": "/assets/images/img-073.svg",
+    "alt": "Univers. Marburg – Neubau Bibliothek (Außenanlage) – Bild 3",
+    "width": 576,
+    "height": 1024,
+    "original": "/2022/08/20170711_120217-576x1024.jpg",
+    "description": "Portrait view along the modern library facade and newly finished exterior paving.",
+    "variants": [
+      "/2022/08/20170711_120217-1152x2048.jpg",
+      "/2022/08/20170711_120217-169x300.jpg",
+      "/2022/08/20170711_120217-768x1365.jpg",
+      "/2022/08/20170711_120217-864x1536.jpg",
+      "/2022/08/20170711_120217-scaled.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-074": {
+    "src": "/assets/images/img-074.svg",
+    "alt": "Bahnhof Ffm-Höchst (Umgestaltung Bahnhofsareal) – Bild 2",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/08/20190708_140031-1024x576.jpg",
+    "description": "Forecourt paving/landscaping works with protected tree trunks and site barriers.",
+    "variants": [
+      "/2022/08/20190708_140031-1536x864.jpg",
+      "/2022/08/20190708_140031-2048x1152.jpg",
+      "/2022/08/20190708_140031-300x169.jpg",
+      "/2022/08/20190708_140031-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-075": {
+    "src": "/assets/images/img-075.svg",
+    "alt": "Bahnhof Ffm-Höchst (Umgestaltung Bahnhofsareal) – Bild 1",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/08/20190708_140833-1024x576.jpg",
+    "description": "Frankfurt-Höchst station building and forecourt during roadworks.",
+    "variants": [
+      "/2022/08/20190708_140833-1536x864.jpg",
+      "/2022/08/20190708_140833-2048x1152.jpg",
+      "/2022/08/20190708_140833-300x169.jpg",
+      "/2022/08/20190708_140833-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-076": {
+    "src": "/assets/images/img-076.svg",
+    "alt": "Bahnhof Ffm-Höchst (Umgestaltung Bahnhofsareal) – Bild 3",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/08/20200526_132041-1024x576.jpg",
+    "description": "Completed station-area road/bus-station space with shelter, signs and paving.",
+    "variants": [
+      "/2022/08/20200526_132041-1536x864.jpg",
+      "/2022/08/20200526_132041-2048x1152.jpg",
+      "/2022/08/20200526_132041-300x169.jpg",
+      "/2022/08/20200526_132041-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-077": {
+    "src": "/assets/images/img-077.svg",
+    "alt": "Univers. Marburg – Neubau Bibliothek (Außenanlage) – Bild 2",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/08/20200625_134809-1024x576.jpg",
+    "description": "Completed Marburg university library entrance/facade with its name signage.",
+    "variants": [
+      "/2022/08/20200625_134809-1536x864.jpg",
+      "/2022/08/20200625_134809-2048x1152.jpg",
+      "/2022/08/20200625_134809-300x169.jpg",
+      "/2022/08/20200625_134809-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-078": {
+    "src": "/assets/images/img-078.svg",
+    "alt": "BAB A2, BW 683 bei Hannover – Bild 3",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/08/20210617_104541-1024x576.jpg",
+    "description": "Close view of the bridge underside and strengthening structure above the canal.",
+    "variants": [
+      "/2022/08/20210617_104541-1536x864.jpg",
+      "/2022/08/20210617_104541-2048x1152.jpg",
+      "/2022/08/20210617_104541-300x169.jpg",
+      "/2022/08/20210617_104541-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-079": {
+    "src": "/assets/images/img-079.svg",
+    "alt": "BAB A2, BW 683 bei Hannover – Bild 2",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/08/20210617_110237-1024x576.jpg",
+    "description": "View under the canal bridge with a passing cargo vessel.",
+    "variants": [
+      "/2022/08/20210617_110237-1536x864.jpg",
+      "/2022/08/20210617_110237-2048x1152.jpg",
+      "/2022/08/20210617_110237-300x169.jpg",
+      "/2022/08/20210617_110237-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-080": {
+    "src": "/assets/images/img-080.svg",
+    "alt": "BAB A2, BW 683 bei Hannover – Bild 1",
+    "width": 1024,
+    "height": 576,
+    "original": "/2022/08/20210617_112506-1024x576.jpg",
+    "description": "Side view of the BAB A2 bridge crossing the Mittelland Canal.",
+    "variants": [
+      "/2022/08/20210617_112506-1536x864.jpg",
+      "/2022/08/20210617_112506-2048x1152.jpg",
+      "/2022/08/20210617_112506-300x169.jpg",
+      "/2022/08/20210617_112506-768x432.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-081": {
+    "src": "/assets/images/img-081.svg",
+    "alt": "Univers. Marburg, Neubau Dokument.-zentrum (Außenanlagen) – Bild 3",
+    "width": 1024,
+    "height": 768,
+    "original": "/2024/02/20211122_155153-1024x768.jpg",
+    "description": "Narrow exterior work area between university buildings, with scaffolding and containers.",
+    "variants": [
+      "/2024/02/20211122_155153-1536x1152.jpg",
+      "/2024/02/20211122_155153-2048x1536.jpg",
+      "/2024/02/20211122_155153-300x225.jpg",
+      "/2024/02/20211122_155153-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-082": {
+    "src": "/assets/images/img-082.svg",
+    "alt": "Univers. Marburg, Neubau Dokument.-zentrum (Außenanlagen) – Bild 2",
+    "width": 1024,
+    "height": 768,
+    "original": "/2024/02/20211122_155355-1024x768.jpg",
+    "description": "Small tracked excavators and earthworks beside the documentation-center buildings.",
+    "variants": [
+      "/2024/02/20211122_155355-1536x1152.jpg",
+      "/2024/02/20211122_155355-2048x1536.jpg",
+      "/2024/02/20211122_155355-300x225.jpg",
+      "/2024/02/20211122_155355-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-083": {
+    "src": "/assets/images/img-083.svg",
+    "alt": "Univers. Marburg, Neubau Dokument.-zentrum (Außenanlagen) – Bild 1",
+    "width": 1024,
+    "height": 768,
+    "original": "/2024/02/20230329_110311-1024x768.jpg",
+    "description": "Street and sidewalk works beside Marburg's documentation-center/university buildings.",
+    "variants": [
+      "/2024/02/20230329_110311-1536x1152.jpg",
+      "/2024/02/20230329_110311-2048x1536.jpg",
+      "/2024/02/20230329_110311-300x225.jpg",
+      "/2024/02/20230329_110311-768x576.jpg"
+    ],
+    "placeholder": true
+  },
+  "IMG-084": {
+    "src": "/assets/images/img-084.svg",
+    "alt": "Platzhalter für die nicht verfügbare Agenturgrafik",
+    "width": 190,
+    "height": 100,
+    "original": "/impressum/fileadmin/user_upload/8c7ec5e7d4.jpg",
+    "description": "Missing legacy design-agency image, linked to designintime.de; appearance unavailable, HTTP 404. Outside uploads.",
+    "variants": [],
+    "placeholder": true
+  }
+}
