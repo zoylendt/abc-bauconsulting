@@ -1,0 +1,22 @@
+{
+  "name": "Isolated Git Environment",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "remoteUser": "developer",
+  "containerUser": "developer",
+  "runArgs": [
+    "--rm"
+  ],
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+  "workspaceFolder": "/workspace",
+  "containerEnv": {
+    "GH_CONFIG_DIR": "/tmp/devcontainer-gh-config"
+  },
+  "updateRemoteUserUID": true,
+  "postStartCommand": "bash /workspace/.devcontainer/startup.sh"
+}

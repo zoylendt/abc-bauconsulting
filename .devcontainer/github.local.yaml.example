@@ -1,0 +1,16 @@
+# Copy this file to github.local.yaml and replace the placeholders.
+# github.local.yaml is ignored by Git. The startup script enforces mode 600.
+github:
+  # The private repository to use as origin, in OWNER/REPOSITORY form.
+  repository: "OWNER/PRIVATE-REPOSITORY"
+  # Create a fine-grained token at https://github.com/settings/personal-access-tokens
+  # with repository access and Contents: Read and write permission.
+  # Required for first-time authentication. If omitted, startup reuses an
+  # existing session-only gh login; otherwise startup stops before syncing.
+  token: "github_pat_REPLACE_ME"
+
+git:
+  # These values are used for commits made from this repository.
+  user_name: "Your Name"
+  user_email: "you@example.com"
+  default_branch: "main"

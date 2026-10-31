@@ -1,0 +1,4 @@
+# Local Dev Container GitHub token and repository settings.
+.devcontainer/github.local.yaml
+.devcontainer/devcontainer-lock.json
+.DS_Store
